@@ -1,4 +1,4 @@
-# Licenses for MDN content
+jcbarbeau021@gmail.com # Licenses for MDN content
 
 MDN's content (including prose and code examples) is entirely available
 under various open source licenses. This file covers the types of
